@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100 vh; 
+    margin: 0;
+    text-align: center;
+    background-color: rgb(221, 188, 152);  /*color de fondo*/
+    color: rgb(51, 35, 24);                /*color de Texto*/
+}
+h1{
+    background-color: rgb(71, 51, 43);
+    color: rgb(241, 234, 234);
+}
+div{
+    max-width: 600px;
+}
